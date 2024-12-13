@@ -36,18 +36,6 @@ This project includes two main components:
 
 ---
 
-## Project Structure
-
-```
-create-servers/
-├── templates/
-│   └── page.html       # HTML page containing the book details and design.
-├── app.js              # Node.js server code to serve the HTML file.
-├── README.md           # Documentation for the project.
-```
-
----
-
 ## Instructions
 
 ### To Run the Server:
